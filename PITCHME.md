@@ -15,7 +15,6 @@ footer: '2025 © Samin Yaser'
 TODO:
 - Awesome vscode
 - Pair programming
-- VS Code insiders
 - Interesting settings
 - Prompt boost extension
 - Set budget to prevent overbilling
