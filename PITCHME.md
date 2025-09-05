@@ -1,21 +1,23 @@
 ---
 marp: true
 lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: GitHub Copilot for VS Code
+author: Samin Yaser
+description: A brief introduction to GitHub Copilot for VS Code
 theme: uncover
 transition: fade
 paginate: true
 _paginate: false
+footer: '2025 © Samin Yaser'
 ---
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> GitHub Copilot for VS Code
 
-Hosting Marp slide deck on the web
+WPXPO, 2025
 
-https://github.com/yhatt/marp-cli-example
+Samin Yaser, SWE
 
 <style scoped>a { color: #36c; }</style>
 
@@ -36,42 +38,6 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+### Thanks!
 
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+Get the slides from [GitHub](https://github.com/SaminYaser-work/copilot-presentation)
