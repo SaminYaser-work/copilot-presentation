@@ -29,7 +29,7 @@ TODO:
 **Dev Workshop, WPXPO**
 
 Samin Yaser, SWE
-Asif vai enter your name, SWE  
+Abdullah Al Asif, SWE  
 
 ---
 
