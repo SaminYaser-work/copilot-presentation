@@ -5,7 +5,7 @@ title: GitHub Copilot for VS Code
 author: Samin Yaser
 description: A brief introduction to GitHub Copilot for VS Code
 theme: gaia
-transition: fade
+transition: slide
 paginate: true
 _paginate: false
 footer: "2025 © Samin Yaser"
@@ -147,7 +147,7 @@ Use the [Prompt Boost](https://marketplace.visualstudio.com/items?itemName=chris
 
 ---
 
-## 📝 Prompt Examples (1/5)
+## 📝 Prompt Examples (1/4)
 
 **React hook:**
 
@@ -159,7 +159,7 @@ Use the [Prompt Boost](https://marketplace.visualstudio.com/items?itemName=chris
 
 ---
 
-## 🧪 Prompt Examples (2/5)
+## 🧪 Prompt Examples (2/4)
 
 **Inline Chat refactor (paste & run):**
 
@@ -170,27 +170,24 @@ Use the [Prompt Boost](https://marketplace.visualstudio.com/items?itemName=chris
 
 ---
 
-## 🧪 Prompt Examples (3/5)
+## 🧪 Prompt Examples (3/4)
 
 **WP_Query Example:**  
 > "Write `get_expiring_subscriptions()` using `WP_Query` to fetch `shop_subscription` posts where `_schedule_end` is within 7 days. Return post IDs."  
 
+
+**WordPress Standards:**  
+> "Refactor selected PHP code to follow WP Coding Standards. Snake_case, PHPDoc, and wrap strings in `__()` with text domain `my-plugin-text-domain`."  
+
 ---
 
-## � Prompt Examples (4/5)
+## � Prompt Examples (4/4)
 
 **WooCommerce Hook (PHP):**  
 > "Write a PHP function hooking into `woocommerce_after_add_to_cart_button`. It should show a text input field and save its value as custom cart item data."  
 
 **React Settings (Admin):**  
 > "Build a React component with a `TextControl` and `Button`. On click, save value via `@wordpress/api-fetch` to `/my-plugin/v1/settings`."  
-
----
-
-## 🧪 Prompt Examples (5/5)
-
-**WordPress Standards:**  
-> "Refactor selected PHP code to follow WP Coding Standards. Snake_case, PHPDoc, and wrap strings in `__()` with text domain `my-plugin-text-domain`."  
 
 ---
 
