@@ -11,8 +11,7 @@ _paginate: false
 footer: "2025 © Samin Yaser"
 ---
 
-<!-- @format -->
-
+<!-- 
     _backgroundImage: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
 -->
 
